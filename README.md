@@ -4,6 +4,7 @@
 [![License](https://img.shields.io/badge/license-Apache%202.0-green)](LICENSE)
 [![Type](https://img.shields.io/badge/repo-documentation-blue)]()
 [![Domain](https://img.shields.io/badge/domain-rulegenius.com-blue)](https://www.rulegenius.com)
+[![Domain](https://img.shields.io/badge/domain-rulespec.org-blue)](https://www.rulespec.org)
 ![Topic](https://img.shields.io/badge/topic-DSL-lightgrey)
 ![Topic](https://img.shields.io/badge/topic-Data%20Contracts-lightgrey)
 ![Topic](https://img.shields.io/badge/topic-Data%20Validation-lightgrey)
