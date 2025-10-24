@@ -35,7 +35,7 @@ All in plain text, with syntax designed for both humans and machines.
 
 ## 📘 Example
 
-```
+```ini
 @contract supplier_product_feed_v1
 @version 1.0
 @description "Supplier product data contract"
