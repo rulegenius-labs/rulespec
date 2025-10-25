@@ -25,9 +25,10 @@ version: "0.1.0"
 date-released: "2025-10-25"
 url: "https://www.rulespec.org"
 preferred-citation:
-  type: article
+  type: software
   title: "RuleSpec: A Declarative Open Standard for Portable Data Contracts"
   authors:
     - family-names: "Muñoz"
       given-names: "Pavel S."
   year: 2025
+  url: "https://github.com/rulegenius-labs/rulespec"
