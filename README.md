@@ -1,6 +1,6 @@
 # RuleSpec — The Open Standard for Data Validation & Data Contracts
 
-> **RuleSpec** is an open, declarative standard for expressing data validation and transformation rules — bridging the gap between static schemas (like JSON Schema or Avro) and executable logic, so that the same rules can run consistently across tools, languages, and platforms.
+> **RuleSpec** is an open, declarative standard for expressing data validation and governance rules — bridging the gap between static schemas (like JSON Schema or Avro) and executable logic, so that the same rules can run consistently across tools, languages, and platforms.
 > This repository contains the official grammar, documentation, examples, and reference tests.
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-green)](LICENSE)
