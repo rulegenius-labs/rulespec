@@ -1,5 +1,4 @@
 # RuleSpec — The Open Standard for Data Validation & Data Contracts
-🔹 **Official repository of [RuleGenius](https://www.rulegenius.com)**
 
 > **RuleSpec** is an open, declarative standard for expressing data validation and transformation rules — bridging the gap between static schemas (like JSON Schema or Avro) and executable logic, so that the same rules can run consistently across tools, languages, and platforms.
 > This repository contains the official grammar, documentation, examples, and reference tests.
