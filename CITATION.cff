@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: "RuleSpec: The Open Standard for Data Validation and Data Contracts"
+message: "If you use this specification, please cite it as below."
+type: software
+authors:
+  - family-names: "Muñoz"
+    given-names: "Pavel S."
+    affiliation: "RuleGenius"
+    orcid: "https://orcid.org/0009-0004-4800-5270"
+abstract: >
+  RuleSpec is an open, declarative specification language for defining data validation and governance rules.
+  It bridges the gap between static schemas (like JSON Schema or Avro) and executable logic,
+  enabling consistent, auditable, and portable data contracts across tools, platforms, and organizations.
+repository-code: "https://github.com/rulegenius-labs/rulespec"
+license: "Apache-2.0"
+keywords:
+  - data-validation
+  - data-contracts
+  - data-quality
+  - data-governance
+  - declarative
+  - open-standard
+  - rules-language
+version: "0.1.0"
+date-released: "2025-10-25"
+url: "https://www.rulespec.org"
+preferred-citation:
+  type: article
+  title: "RuleSpec: A Declarative Open Standard for Portable Data Contracts"
+  authors:
+    - family-names: "Muñoz"
+      given-names: "Pavel S."
+  journal: "RuleGenius Whitepaper"
+  year: 2025
